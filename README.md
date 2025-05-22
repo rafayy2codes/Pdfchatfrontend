@@ -2,6 +2,9 @@
 
 Intelligent chat over uploaded PDF documents using state-of-the-art vector search, embeddings, and Google Gemini LLMs. Upload your PDF, ask questions, and get context-aware answers—powered by scalable job queues and embeddings storage.
 
+## Backend Repository
+
+- [Pdfchatbackend on GitHub](https://github.com/rafayy2codes/Pdfchatbackend)
 
 ## Features
 
