@@ -20,7 +20,7 @@ Intelligent chat over uploaded PDF documents using state-of-the-art vector searc
 
 ---
 
-## Demo Screenshot
+
 
 ![PDF Chat AI Service Screenshot](src/assets/RAG.png)
 
